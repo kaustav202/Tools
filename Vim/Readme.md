@@ -11,3 +11,12 @@
 - :exit to write and exit (same as :x)
 - :qa to quit all (short for :quitall)
 - :cq to quit without saving and make Vim return non-zero error (i.e. exit with error)
+
+### Insert Mode
+
+- i: go to INSERT in the place of the cursor
+- I: go to INSERT mode at the beginning of the line
+- a: append after the cursor
+- A: append at the end of line
+- o: open a new line below the current line
+- O: open a new line in the place of the current line
