@@ -20,3 +20,5 @@
 - A: append at the end of line
 - o: open a new line below the current line
 - O: open a new line in the place of the current line
+
+Vim Cheatsheet https://testclub.hashnode.dev/vim-cheatsheet#heading-startend-of-line-and-file
