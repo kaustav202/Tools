@@ -1,3 +1,18 @@
+# curl 
+
+cURL is a command-line utility and a library for accessing remote resources, communicating with servers and transfering data over the network. It supports a range of protocols including HTTP, FTP, IMAP, LDAP, POP3, SMTP.
+
+The most common use cases for curl are:
+
+- Downloading files from the internet
+- Endpoint testing
+- Debugging
+- Error logging
+- Scripting
+- Forensic analysis
+
+</br>
+
 ### Get a response from a server
 
 Everything from server is a response to the request. So getting a HTML page is same as downloading a file.This retrieves the content from the specified URL and prints it to the terminal.
